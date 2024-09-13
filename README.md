@@ -6,8 +6,8 @@ Database models and database control systems labs
 * Role system (client, employee)
 * Logging user actions
 ### For unathorised user:
-* watching cars list
-* wathcing rental categories
+* Watching cars list
+* Wathcing rental categories
 ### For authorised user:
 * Make an order (booking a car)
 * Add feedback
@@ -64,7 +64,7 @@ Database models and database control systems labs
     "user_id" BIGINT NOT NULL -> user,
     "is_complete" BOOLEAN NOT NULL,
     "total_price" NUMERIC
-### Log
+### log
     "id" BIGINT PRIMARY KEY NOT NULL,
     "user_id" BIGINT NOT NULL,
     "date" DATE NOT NULL,
