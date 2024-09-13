@@ -7,14 +7,14 @@ Database models and database control systems labs
 * Logging user actions
 ### For unathorised user:
 * watching cars list
-* wathcing cars categories
+* wathcing rental categories
 ### For authorised user:
-* Make an order
+* Make an order (booking a car)
 * Add feedback
 ### For employee:
-* Rent management
-* Rent category management
-* Supplier_delivery management
+* Order management
+* Managing rental categories
+* Management of car returns and condition
 * Sale management
 ## Entities
 ### user
@@ -50,7 +50,7 @@ Database models and database control systems labs
 ### category
     "id" BIGINT NOT NULL,
     "name" VARCHAR(255) NOT NULL
-### medicine
+### сar
     "id" BIGINT PRIMARY KEY NOT NULL,
     "name" BIGINT NOT NULL,
     "description" BIGINT NOT NULL,
@@ -70,3 +70,4 @@ Database models and database control systems labs
     "date" DATE NOT NULL,
     "action" VARCHAR(255) NOT NULL
 ## Block-scheme
+![image](https://github.com/user-attachments/assets/8df39263-0972-4af0-9cb1-a9478ca2bbbb)
