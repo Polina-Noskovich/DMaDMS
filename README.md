@@ -1,6 +1,6 @@
 # DMaDCS
 Database models and database control systems labs
-## Прокат автомобилей
+## Car rental
 ## Functional requirements
 * User authorithation
 * Role system (client, employee)
