@@ -1,6 +1,6 @@
 # DMaDCS
 ### *Database models and database control systems labs*
-<hr>
+---
 ## Интернет-магазин одежды (на пр. Сherry Wood)
 ### *Создатель проекта: Носкович Полина Николаевна*
 ### *Группа: 253504*
