@@ -33,5 +33,6 @@
 * Администратор может модерировать отзывы, удалять некорректные или спам-отзывы.
 
 ## Схема модели БД
-![image](https://github.com/user-attachments/assets/2d6d6da7-70c0-431a-a212-f19f46bd0ec7)
+![image](https://github.com/user-attachments/assets/3e229e75-6a3f-4b12-803a-f6df8ac2ad0e)
+
 
